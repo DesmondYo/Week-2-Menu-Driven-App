@@ -40,7 +40,7 @@ public class Week2MenuDrivenApp {
 		}
 	}
 		
-		System.out.println("Your curent total is: " + total);
+		System.out.println("Your current total is: " + total);
 		
 		
 	}
